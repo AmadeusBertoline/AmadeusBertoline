@@ -5,7 +5,7 @@
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudando JavaScript e C#
+- 🌱 Estudando Java
 
 <div style="display: inline_block"><br>
   
