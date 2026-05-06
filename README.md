@@ -74,5 +74,5 @@ Atuar como **desenvolvedor backend (Java)**, aplicando meus conhecimentos em ban
 
 ## 📫 Contato
 
-- LinkedIn: SEU_LINKEDIN_AQUI
+- LinkedIn: https://www.linkedin.com/in/amadeus-bertoline-8432a6194/?skipRedirect=true
 - GitHub: https://github.com/AmadeusBertoline
