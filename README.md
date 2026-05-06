@@ -1,32 +1,41 @@
 <h1 align="center">👨‍💻 Amadeus Bertoline</h1>
 
 <p align="center">
-  Estudante de ADS • Backend Java • SQL
+  Backend Java • SQL • Estudante de ADS
+</p>
+
+<p align="center">
+  <a href="SEU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AmadeusBertoline">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atuo atualmente com implantação de software.  
-Tenho foco em **desenvolvimento backend com Java e SQL**, construindo aplicações organizadas, com boa estrutura e integração com banco de dados.
+Sou estudante de Análise e Desenvolvimento de Sistemas e atuo com implantação de software.  
+Tenho foco em **desenvolvimento backend com Java e SQL**, construindo aplicações com organização, consistência de dados e boas práticas.
 
-Busco evoluir constantemente através de projetos práticos e estou em busca de uma oportunidade para atuar como desenvolvedor.
+Busco minha primeira oportunidade como desenvolvedor para aplicar meus conhecimentos em projetos reais e evoluir dentro da área.
 
 ---
 
 ## 🧠 Stack principal
 
-<div align="center">
+<p align="center">
 
-💻 **Java**  
-🗄️ **SQL | MariaDB**  
-🔌 **JDBC**  
-🖥️ **JavaFX**  
-🌐 **HTML | CSS**  
-🔧 **Git & GitHub**
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaFX-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white"/>
 
-</div>
+</p>
 
 ---
 
@@ -34,40 +43,45 @@ Busco evoluir constantemente através de projetos práticos e estou em busca de 
 
 ### 💰 FinSight
 
-Sistema desktop para gestão de investimentos desenvolvido com foco em **arquitetura, consistência de dados e prática real de backend**.
+Sistema desktop para gestão de investimentos com foco em backend e banco de dados.
 
 ✨ Destaques:
-- CRUD completo com JavaFX + bindings
-- Integração com banco via JDBC
+- CRUD completo com **JavaFX + bindings**
+- Integração com banco via **JDBC**
 - Uso de **triggers, procedures e auditoria**
-- Organização em **MVC + DAO**
-- Interface moderna em dark mode
+- Arquitetura **MVC + DAO**
+- Validações e consistência de dados
 
-🔗 **Acesse o projeto:**  
+🔗 Acesse:  
 👉 https://github.com/AmadeusBertoline/FinSight
 
 ---
 
-## 📈 Em evolução
+## 📈 Estatísticas
 
-Atualmente estou aprofundando meus conhecimentos em:
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmadeusBertoline&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmadeusBertoline&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📚 Em evolução
 
 - Backend com Java
-- SQL avançado (queries, procedures, triggers)
+- SQL avançado
 - Estruturação de projetos
-- Boas práticas e organização de código
+- Boas práticas de código
 
 ---
 
 ## 🎯 Objetivo
 
-Conseguir minha primeira oportunidade como **desenvolvedor backend**, onde eu possa aplicar na prática meus conhecimentos em **Java + SQL**, aprender com o time e evoluir continuamente.
+Atuar como **desenvolvedor backend (Java)**, aplicando meus conhecimentos em banco de dados e lógica de negócio, enquanto evoluo tecnicamente dentro de um time de desenvolvimento.
 
 ---
 
 ## 📫 Contato
 
-<p align="center">
-  <a href="SEU_LINKEDIN_AQUI">LinkedIn</a> •
-  <a href="https://github.com/AmadeusBertoline">GitHub</a>
-</p>
+- LinkedIn: SEU_LINKEDIN_AQUI
+- GitHub: https://github.com/AmadeusBertoline
