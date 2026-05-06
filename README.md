@@ -1,33 +1,73 @@
-### Olá, sou o Amadeus
+<h1 align="center">👨‍💻 Amadeus Bertoline</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmadeusBertoline&show_icons=true&theme=dark#gh-light-mode-only)](https://github.com/AmadeusBertoline/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmadeusBertoline&layout=donut)](https://github.com/AmadeusBertoline/github-readme-stats)
+<p align="center">
+  Estudante de ADS • Backend Java • SQL
+</p>
 
+---
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudando Java
+## 🚀 Sobre mim
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-          
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  
-  
+Sou estudante de Análise e Desenvolvimento de Sistemas e atuo atualmente com implantação de software.  
+Tenho foco em **desenvolvimento backend com Java e SQL**, construindo aplicações organizadas, com boa estrutura e integração com banco de dados.
+
+Busco evoluir constantemente através de projetos práticos e estou em busca de uma oportunidade para atuar como desenvolvedor.
+
+---
+
+## 🧠 Stack principal
+
+<div align="center">
+
+💻 **Java**  
+🗄️ **SQL | MariaDB**  
+🔌 **JDBC**  
+🖥️ **JavaFX**  
+🌐 **HTML | CSS**  
+🔧 **Git & GitHub**
+
 </div>
-<br>
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"_blank"></a>
-  <a href="https://instagram.com/bertoz.jj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>  
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 📌 Projeto em destaque
+
+### 💰 FinSight
+
+Sistema desktop para gestão de investimentos desenvolvido com foco em **arquitetura, consistência de dados e prática real de backend**.
+
+✨ Destaques:
+- CRUD completo com JavaFX + bindings
+- Integração com banco via JDBC
+- Uso de **triggers, procedures e auditoria**
+- Organização em **MVC + DAO**
+- Interface moderna em dark mode
+
+🔗 **Acesse o projeto:**  
+👉 https://github.com/AmadeusBertoline/FinSight
+
+---
+
+## 📈 Em evolução
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- Backend com Java
+- SQL avançado (queries, procedures, triggers)
+- Estruturação de projetos
+- Boas práticas e organização de código
+
+---
+
+## 🎯 Objetivo
+
+Conseguir minha primeira oportunidade como **desenvolvedor backend**, onde eu possa aplicar na prática meus conhecimentos em **Java + SQL**, aprender com o time e evoluir continuamente.
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="SEU_LINKEDIN_AQUI">LinkedIn</a> •
+  <a href="https://github.com/AmadeusBertoline">GitHub</a>
+</p>
