@@ -57,15 +57,6 @@ Sistema desktop para gestão de investimentos com foco em backend e banco de dad
 
 ---
 
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmadeusBertoline&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmadeusBertoline&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📚 Em evolução
 
 - Backend com Java
