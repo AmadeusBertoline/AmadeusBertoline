@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Amadeus 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Arquitetura%2C+boas+pr%C3%A1ticas+e+desempenho" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;EEstudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Arquitetura%2C+boas+pr%C3%A1ticas+e+desempenho" alt="Typing SVG" />
 </p>
 
 <p align="center">
