@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Amadeus 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;EEstudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Arquitetura%2C+boas+pr%C3%A1ticas+e+desempenho" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Arquitetura%2C+boas+pr%C3%A1ticas+e+desempenho" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,9 +22,9 @@
 
 - 🎓 Estudo **Análise e Desenvolvimento de Sistemas** na Fatec Zona Leste
 - 💻 Backend 100% **Java** — gosto de arquitetura, boas práticas e código que se sustenta em produção, não só "funciona na minha máquina"
-- 🏦 Meus projetos de portfólio simulam sistemas financeiros reais: transações, Pix, controle de saldo, limites e concorrência
+- 🏦 Meus projetos de portfólio simulam regras de negócio complexas: sistemas financeiros reais, concorrência, reservas e controle de estado
 - 💼 Atualmente estagiário em implantação de software, migrando o foco para desenvolvimento
-- 🌱 Buscando minha primeira oportunidade como **Engenheiro(a) de Software / Backend Developer**
+- 🌱 Buscando minha oportunidade como **Engenheiro de Software / Backend Developer**
 
 ---
 
@@ -64,21 +64,19 @@ API REST de um banco digital com transferências via Pix.
 </td>
 <td width="50%" valign="top">
 
-**🧑‍💼 [api-rh](https://github.com/AmadeusBertoline/api-rh)**
+**🎬 [poltrona](https://github.com/AmadeusBertoline/poltrona)**
 
-API REST para gestão de recursos humanos.
+API REST para reserva de ingressos e gestão de assentos de cinema.
 
-- Autenticação JWT + BCrypt
-- Arquitetura em camadas (Controller → Service → Repository)
-- Documentação via Swagger UI
-- Testes unitários com JUnit 5 + Mockito
-- Variáveis de ambiente protegidas, README completo
+- Gerenciamento de sessões, salas e disponibilidade de assentos em tempo real
+- Controle de concorrência e integridade na reserva de assentos
+- Autenticação e autorização via JWT + Spring Security
+- Cache de consultas frequentes com Redis e ambiente containerizado com Docker
+- Arquitetura sólida com testes unitários e de integração (JUnit 5 + Mockito)
 
 </td>
 </tr>
 </table>
-
-<p align="center"><sub>🚧 Um terceiro projeto está em construção, aprofundando modelagem de domínio e regras de negócio mais complexas.</sub></p>
 
 ---
 
@@ -97,9 +95,9 @@ API REST para gestão de recursos humanos.
 
 ### 🎯 Em evolução
 
-- Aprofundando Spring Security, arquitetura de sistemas e Docker
-- Modelagem de domínio para regras de negócio mais complexas
-- Me preparando para minha primeira vaga como desenvolvedor backend
+- Aprofundando Spring Security, mensageria e arquitetura distribuída
+- Otimização de desempenho e cache distribuído com Redis
+- Me preparando para minha oportunidade como desenvolvedor backend
 
 ---
 
