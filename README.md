@@ -12,10 +12,6 @@
 <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%2C%20BR-1f1f1f?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0a0a0a"/>
 <img src="https://img.shields.io/badge/aberto%20a%20oportunidades-e6e6e6?style=flat-square&labelColor=0a0a0a&color=e6e6e6&logoColor=black"/>
 
-<br/><br/>
-
-<sub><code>アマデウス · ソフトウェアエンジニア</code></sub>
-
 </div>
 
 <br/>
@@ -125,39 +121,7 @@ Cadastro com conta criada automaticamente, chaves Pix com detecção de tipo, li
 
 <br/>
 
-## 06 &nbsp;/&nbsp; Character sheet
-
-```text
-┃ PLAYER ONE ─ AMADEUS
-┃
-┃ Classe .............. Backend Engineer (Java)
-┃ Equipamento ......... Spring Boot · MySQL · Redis · Docker
-┃ Habilidades ......... Lock Pessimista · JWT · Cache · Flyway
-┃ Passiva ............. Testes unitários (JUnit 5 + Mockito)
-┃
-┃ Bosses derrotados
-┃   [x] Race condition
-┃   [x] Deadlock
-┃   [x] Estoque negativo
-┃   [ ] Cold start do Render (boss recorrente)
-┃
-┃ Skill tree em andamento
-┃   Microsserviços ─► RabbitMQ ─► Kafka ─► API Gateway
-┃
-┃ Quest atual ......... Primeira vaga como Software Engineer
-```
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AmadeusBertoline/AmadeusBertoline/output/github-snake.svg" alt="snake" width="95%"/>
-
-<sub><code>a cobrinha só come commits. alimente ela.</code></sub>
-
-</div>
-
-<br/>
-
-## 07 &nbsp;/&nbsp; Fora do código
+## 06 &nbsp;/&nbsp; Fora do código
 
 ```text
 amadeus@github:~$ cat interesses.txt
@@ -171,7 +135,7 @@ amadeus@github:~$ cat interesses.txt
 
 <br/>
 
-## 08 &nbsp;/&nbsp; Contato
+## 07 &nbsp;/&nbsp; Contato
 
 <div align="center">
 
