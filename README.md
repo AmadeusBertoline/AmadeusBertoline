@@ -1,120 +1,105 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2F81F7&height=230&section=header&text=Amadeus%20Bertoline&fontSize=58&fontColor=E6EDF3&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%26%20Spring%20Boot&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:1a1a1a,100:3d3d3d&height=220&section=header&text=Amadeus%20Bertoline&fontSize=54&fontColor=F2F2F2&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Backend&descSize=18&descColor=A3A3A3&descAlignY=62&animation=fadeIn" width="100%" alt="header"/>
 
-<a href="https://github.com/AmadeusBertoline">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&height=40&lines=%24+whoami+%E2%86%92+Amadeus;Backend+Java+%7C+Spring+Boot+%7C+SQL;Arquitetura+em+camadas+%7C+Boas+pr%C3%A1ticas;C%C3%B3digo+que+se+sustenta+em+produ%C3%A7%C3%A3o" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/amadeus-bertoline-8432a6194/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/AmadeusBertoline">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:amadeusbertoline123@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1200&color=A3A3A3&center=true&vCenter=true&width=620&height=36&lines=Java+%C2%B7+Spring+Boot+%C2%B7+SQL;APIs+REST+com+regras+de+neg%C3%B3cio+reais;Concorr%C3%AAncia+%C2%B7+Seguran%C3%A7a+%C2%B7+Testes" alt="typing"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/status-aberto%20a%20oportunidades-2EA043?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/foco-backend%20%2F%20java-2F81F7?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/local-S%C3%A3o%20Paulo%2C%20BR-8B949E?style=flat-square&labelColor=0D1117"/>
+<a href="https://www.linkedin.com/in/amadeus-bertoline-8432a6194/"><img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0a"/></a>
+<a href="https://github.com/AmadeusBertoline"><img src="https://img.shields.io/badge/GitHub-1f1f1f?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0a"/></a>
+<a href="mailto:amadeusbertoline123@gmail.com"><img src="https://img.shields.io/badge/E--mail-1f1f1f?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a0a"/></a>
+<img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%2C%20BR-1f1f1f?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/aberto%20a%20oportunidades-e6e6e6?style=flat-square&labelColor=0a0a0a&color=e6e6e6&logoColor=black"/>
 
 </div>
 
 <br/>
 
-## `~/sobre-mim`
+## 01 &nbsp;/&nbsp; Quem sou eu
 
-```java
-public class Amadeus implements SoftwareEngineer {
+```text
+amadeus@github:~$ whoami
 
-    private final String formacao  = "Análise e Desenvolvimento de Sistemas @ Fatec Zona Leste";
-    private final String atuacao   = "Estagiário em implantação de software → migrando para desenvolvimento";
-    private final String foco      = "Backend com Java, Spring Boot e SQL";
-    private final String objetivo  = "Primeira oportunidade como Engenheiro de Software";
-
-    @Override
-    public String filosofia() {
-        return "Código que se sustenta em produção, não só 'funciona na minha máquina'.";
-    }
-}
+  Nome ........... Amadeus Bertoline
+  Cargo alvo ..... Software Engineer (Backend)
+  Atual .......... Estagiário em implantação de software
+  Formação ....... Análise e Desenvolvimento de Sistemas · Fatec Zona Leste
+  Foco ........... Java · Spring Boot · SQL
+  Local .......... São Paulo, Brasil
+  Status ......... Em busca da primeira posição como Engenheiro de Software
 ```
 
-- 🏦 Meus projetos simulam **regras de negócio complexas**: sistemas financeiros, concorrência, reservas e controle de estado
-- 🧱 Gosto de **arquitetura em camadas**, boas práticas, testes e performance
-- 🔐 Preocupação real com **segurança, integridade de dados e consistência transacional**
-- 🌱 Sempre estudando: mensageria, arquitetura distribuída e microsserviços
+Sou estudante de ADS e trabalho com **implantação de software**, onde convivo com sistemas reais, clientes e processos. Meu foco de carreira é **backend em Java**: construo APIs REST com arquitetura em camadas, autenticação, cache, testes e deploy, e gosto de projetos com regra de negócio difícil, como **transações financeiras** e **disputa concorrente por recursos**.
 
 <br/>
 
-## `~/stack`
+## 02 &nbsp;/&nbsp; Resumo do currículo
 
-<div align="center">
-
-**Linguagem & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" /> 
-
-**Dados & Cache**
-
-<img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" />
-
-**Infra & Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,intellij,postman&theme=dark" />
+| | |
+|---|---|
+| **Formação** | Tecnólogo em Análise e Desenvolvimento de Sistemas, Fatec Zona Leste (em andamento) |
+| **Experiência atual** | Estágio em implantação de software, em transição para desenvolvimento |
+| **Objetivo** | Primeira vaga como Software Engineer / Backend, de preferência em banco ou empresa de tecnologia |
+| **Projetos** | 2 APIs completas, com deploy, CI, testes e demo em vídeo |
+| **Em estudo** | Microsserviços, mensageria (RabbitMQ, Kafka), API Gateway |
 
 <br/>
 
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+## 03 &nbsp;/&nbsp; O que eu sei fazer
 
-</div>
+| Área | O que eu entrego |
+|---|---|
+| **APIs REST** | Spring Boot 3 com arquitetura em camadas (Controller, Service, Repository), DTOs imutáveis com `record`, tratamento de erros centralizado e documentação com Swagger/OpenAPI |
+| **Segurança** | Autenticação stateless com JWT, hash de senha com BCrypt, autorização por papéis com Spring Security e checagem de propriedade nos services |
+| **Concorrência** | Lock pessimista, lock otimista (`@Version`), índice único funcional e `UPDATE` condicional atômico, para evitar race condition, deadlock e estoque negativo |
+| **Banco de dados** | MySQL 8, modelagem relacional, migrações versionadas com Flyway, triggers, índices e queries com JPA/Hibernate |
+| **Performance** | Cache com Redis (TTL e invalidação nas escritas), paginação e exportação de dados |
+| **Qualidade** | Testes unitários com JUnit 5 e Mockito (220+ no Poltrona), pipeline de CI com GitHub Actions |
+| **Infra** | Docker e Docker Compose, deploy em nuvem (Render, Aiven, Railway) e variáveis de ambiente para os segredos |
 
 <br/>
 
-## `~/projetos`
+## 04 &nbsp;/&nbsp; Projetos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💰 [api-bank](https://github.com/AmadeusBertoline/api-bank)
-**API REST de um banco digital com transferências via Pix**
+### 🎬 [Poltrona](https://github.com/AmadeusBertoline/poltrona)
+**API de venda de ingressos e gestão de cinemas**
 
-- 🔐 Autenticação **JWT + BCrypt**, perfis usuário/admin
-- ⚛️ Transferências **atômicas** com **lock pessimista** (evita condição de corrida)
-- ⚡ Cache com **Redis**, limite diário configurável, extrato paginado
-- 📄 Swagger UI + Docker Compose
-- 🧪 **45 testes** (JUnit 5 + Mockito)
-- 🚀 Deploy em produção (**Railway**)
+Hierarquia de proprietários, gerentes, cinemas e salas, com layout dinâmico de poltronas, grade de sessões, venda de ingressos e bomboniere, e PDF com QR Code.
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+- Dois clientes nunca compram a mesma poltrona: **índice único funcional** no MySQL
+- Venda **atômica** (tudo ou nada) e estoque que nunca fica negativo
+- Locks pessimistas com ordem definida para evitar deadlock
+- JWT, 4 papéis, cache Redis, migrações Flyway
+- **220+ testes** e CI no GitHub Actions
+- Em produção no Render (API e Redis) e Aiven (MySQL)
+
+[Repositório](https://github.com/AmadeusBertoline/poltrona) · [Swagger](https://poltrona.onrender.com/swagger-ui.html) · [Demo](https://www.youtube.com/watch?v=AZDOz4xqvSI)
+
+<img src="https://img.shields.io/badge/Java%2021-1f1f1f?style=flat-square&logo=openjdk&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Spring%20Boot-1f1f1f?style=flat-square&logo=springboot&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/MySQL-1f1f1f?style=flat-square&logo=mysql&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Redis-1f1f1f?style=flat-square&logo=redis&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Flyway-1f1f1f?style=flat-square&logo=flyway&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Docker-1f1f1f?style=flat-square&logo=docker&logoColor=white&labelColor=0a0a0a"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [poltrona](https://github.com/AmadeusBertoline/poltrona)
-**API REST para reserva de ingressos e gestão de assentos de cinema**
+### 💰 [API Bank](https://github.com/AmadeusBertoline/api-bank)
+**Banco digital com transferências Pix**
 
-- 🪑 Sessões, salas e disponibilidade de assentos em tempo real
-- 🔒 Controle de **concorrência** e integridade na reserva
-- 🛡️ Autenticação e autorização com **JWT + Spring Security**
-- ⚡ Cache de consultas frequentes com **Redis**
-- 🐳 Ambiente containerizado com **Docker**
-- 🧪 Testes unitários e de integração (JUnit 5 + Mockito)
+Cadastro com conta criada automaticamente, chaves Pix com detecção de tipo, limite diário, extrato paginado e painel de administração.
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+- Transferências **atômicas** com lock pessimista e ordenação de locks (sem deadlock)
+- Extrato em cache no Redis, com invalidação a cada novo Pix
+- Exportação do extrato em **CSV** com filtro por período
+- Auditoria de status de conta via **trigger nativa** no MySQL
+- JWT + BCrypt, perfis usuário e admin
+- **64 testes** unitários e Docker Compose
+
+[Repositório](https://github.com/AmadeusBertoline/api-bank) · [Demo](https://youtu.be/ftyhAU3ST7s)
+
+<img src="https://img.shields.io/badge/Java%2021-1f1f1f?style=flat-square&logo=openjdk&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Spring%20Boot-1f1f1f?style=flat-square&logo=springboot&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Spring%20Security-1f1f1f?style=flat-square&logo=springsecurity&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/MySQL-1f1f1f?style=flat-square&logo=mysql&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Redis-1f1f1f?style=flat-square&logo=redis&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Docker-1f1f1f?style=flat-square&logo=docker&logoColor=white&labelColor=0a0a0a"/>
 
 </td>
 </tr>
@@ -122,68 +107,43 @@ public class Amadeus implements SoftwareEngineer {
 
 <br/>
 
-## `~/em-evolucao`
+## 05 &nbsp;/&nbsp; Stack
 
-```yaml
-estudando_agora:
-  - Spring Security avançado
-  - Microsserviços do zero
-  - Mensageria: RabbitMQ e Kafka
-  - API Gateway e arquitetura distribuída
-  - Performance e cache distribuído com Redis
-meta: "Engenheiro de Software em um banco / empresa de tecnologia"
+| | |
+|---|---|
+| **Linguagem** | <img src="https://img.shields.io/badge/Java-1f1f1f?style=flat-square&logo=openjdk&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/SQL-1f1f1f?style=flat-square&logo=postgresql&logoColor=white&labelColor=0a0a0a"/> |
+| **Frameworks** | <img src="https://img.shields.io/badge/Spring%20Boot-1f1f1f?style=flat-square&logo=springboot&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Spring%20Security-1f1f1f?style=flat-square&logo=springsecurity&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-1f1f1f?style=flat-square&logo=spring&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Hibernate-1f1f1f?style=flat-square&logo=hibernate&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/JWT-1f1f1f?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Swagger-1f1f1f?style=flat-square&logo=swagger&logoColor=white&labelColor=0a0a0a"/> |
+| **Dados** | <img src="https://img.shields.io/badge/MySQL-1f1f1f?style=flat-square&logo=mysql&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Redis-1f1f1f?style=flat-square&logo=redis&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Flyway-1f1f1f?style=flat-square&logo=flyway&logoColor=white&labelColor=0a0a0a"/> |
+| **Testes** | <img src="https://img.shields.io/badge/JUnit%205-1f1f1f?style=flat-square&logo=junit5&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Mockito-1f1f1f?style=flat-square&labelColor=0a0a0a"/> |
+| **Infra & CI** | <img src="https://img.shields.io/badge/Docker-1f1f1f?style=flat-square&logo=docker&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/GitHub%20Actions-1f1f1f?style=flat-square&logo=githubactions&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Render-1f1f1f?style=flat-square&logo=render&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Railway-1f1f1f?style=flat-square&logo=railway&logoColor=white&labelColor=0a0a0a"/> |
+| **Ferramentas** | <img src="https://img.shields.io/badge/Maven-1f1f1f?style=flat-square&logo=apachemaven&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Git-1f1f1f?style=flat-square&logo=git&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/IntelliJ-1f1f1f?style=flat-square&logo=intellijidea&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/VS%20Code-1f1f1f?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Insomnia-1f1f1f?style=flat-square&logo=insomnia&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/DBeaver-1f1f1f?style=flat-square&logo=dbeaver&logoColor=white&labelColor=0a0a0a"/> |
+| **Estudando** | <img src="https://img.shields.io/badge/RabbitMQ-3d3d3d?style=flat-square&logo=rabbitmq&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Kafka-3d3d3d?style=flat-square&logo=apachekafka&logoColor=white&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Microsservi%C3%A7os-3d3d3d?style=flat-square&labelColor=0a0a0a"/> |
+
+<br/>
+
+## 06 &nbsp;/&nbsp; Fora do código
+
+```text
+amadeus@github:~$ cat interesses.txt
+
+  anime ........ assistindo sempre
+  música ....... trap e eletrônica no fone
+  cinema ....... cinéfilo
+  academia ..... rotina
+  viagens ...... sempre que dá
 ```
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=rabbitmq,kafka,redis,docker&theme=dark" />
-
-</div>
-
 <br/>
 
-## `~/github-stats`
+## 07 &nbsp;/&nbsp; Contato
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmadeusBertoline&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmadeusBertoline&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9" />
+Aberto a conversar sobre vagas de backend, Java e arquitetura de APIs.
 
-<br/>
+<a href="https://www.linkedin.com/in/amadeus-bertoline-8432a6194/"><img src="https://img.shields.io/badge/LinkedIn-e6e6e6?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=e6e6e6"/></a>
+<a href="mailto:amadeusbertoline123@gmail.com"><img src="https://img.shields.io/badge/E--mail-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f"/></a>
 
-<img src="https://streak-stats.demolab.com/?user=AmadeusBertoline&theme=github-dark-blue&hide_border=true&background=0D1117" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmadeusBertoline&bg_color=0D1117&color=2F81F7&line=2F81F7&point=E6EDF3&area=true&area_color=2F81F7&hide_border=true" width="95%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d3d3d,40:1a1a1a,100:000000&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
-
-<br/>
-
-## `~/fora-do-codigo`
-
-<div align="center">
-
-🏋️ Academia &nbsp;•&nbsp; ✈️ Viagens &nbsp;•&nbsp; 🎧 Música &nbsp;•&nbsp; 🎬 Cinema (sou bem cinéfilo) &nbsp;•&nbsp; 🍻 Bons momentos com amigos
-
-</div>
-
-<br/>
-
-## `~/contato`
-
-<div align="center">
-
-Vamos conversar sobre backend, arquitetura ou oportunidades!
-
-<a href="https://www.linkedin.com/in/amadeus-bertoline-8432a6194/"><img src="https://img.shields.io/badge/Falar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:amadeusbertoline123@gmail.com"><img src="https://img.shields.io/badge/Enviar%20e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AmadeusBertoline&style=for-the-badge&color=2F81F7&label=VISITAS&labelColor=0D1117" alt="Contador de visitas"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:161B22,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
