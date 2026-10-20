@@ -126,8 +126,8 @@ Cadastro com conta criada automaticamente, chaves Pix com detecção de tipo, li
 ```text
 amadeus@github:~$ cat interesses.txt
 
-  anime ........ assistindo sempre
-  música ....... trap e eletrônica no fone
+  anime ........ jojo e diário de uma apotecária
+  música ....... todas
   cinema ....... cinéfilo
   academia ..... rotina
   viagens ...... sempre que dá
